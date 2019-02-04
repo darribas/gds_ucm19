@@ -1,4 +1,3 @@
-name: sat
 channels:
   - conda-forge
   - defaults
