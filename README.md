@@ -1,5 +1,7 @@
 # Geographic Data Science with PySAL2.0: a taster
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/darribas/gds_ucm19/master)
+
 * [Dani Arribas-Bel](http://darribas.org) ([`@darribas`](https://www.twitter.com/darribas))
 
 This repository contains materials for the masterclass delivered by Dani Arribas-Bel at the Universidad Complutense de Madrid in February'19, hosted by [t-GIS](https://www.ucm.es/tgis).
